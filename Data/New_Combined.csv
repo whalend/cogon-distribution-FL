@@ -326,7 +326,7 @@ X,date,pop_number,pop_id,plot_number,latitude,longitude,elevation,hardiness_zone
 325,10/18/17,55,OcalaNF3,1,29.00487,-81.57121,13,NA,Sandhill,Sandhill,inv,79,7.8,7.9,7.3,5.9,7.225,NA,30,19,121,118,116.5,114.5,50,113.5,101.5,58,89,91,100,70,111,63,3.47,26.01,0,42.19,2.18,13.54,0,33.94,NA,NA,NA,NA
 326,10/18/17,55,OcalaNF3,2,29.00487,-81.57118,11,NA,Sandhill,Sandhill,inv,78,4.5,7.5,5.7,4.5,5.55,NA,62,23,95,92,85.5,84.5,79.5,81.5,67,74.5,59,73,67.5,76.5,77,80.5,2.6,23.21,0,19.68,2.13,15.39,0,15.66,NA,NA,NA,NA
 327,10/18/17,55,OcalaNF3,3,29.00492,-81.57111,11,NA,Sandhill,Sandhill,inv,36,3.1,2.2,5.3,3.9,3.625,NA,26,53,99.5,96.5,95,94.5,91,73,19,87.5,88.5,69,77,81,78.5,88,8.56,13.17,0.29,5.66,7.3,9.07,0.27,4.67,NA,NA,NA,NA
-328,10/18/17,55,OcalaNF3,4,29.00483,-81.5711,12,NA,Sandhill,Sandhill,unv,60,5.8,4.9,7.4,4.5,5.65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,31,32,30
+328,10/18/17,55,OcalaNF3,4,29.00483,-81.57110,12,NA,Sandhill,Sandhill,unv,60,5.8,4.9,7.4,4.5,5.65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,31,32,30
 329,10/18/17,55,OcalaNF3,5,29.00479,-81.57112,13,NA,Sandhill,Sandhill,unv,85,4.5,5.9,3.8,5.6,4.95,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,133,131,130,137
 330,10/18/17,55,OcalaNF3,6,29.00481,-81.57107,12,NA,Sandhill,Sandhill,unv,61,5.7,5.1,5,5,5.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,58,56,52,50
 331,11/13/17,56,MerrittIsland1,1,28.61898,-80.66359,20,NA,Scrub (edge of swale),Scrub,inv,4,20.3,14.2,22.3,11.7,17.125,water table high,98,35,167.5,166.5,164.5,163,98.5,122.5,146,148,125,157,156,89.5,102,144,17.9,250.39,0,59.36,13.86,105.45,0,46.05,NA,NA,NA,NA
@@ -371,57 +371,57 @@ X,date,pop_number,pop_id,plot_number,latitude,longitude,elevation,hardiness_zone
 370,11/16/17,62,Baseline3,4,29.15011,-82.04333,12,NA,Pine Plantation,Pine Plantation,unv,82,0.4,0.9,1.1,2.3,1.175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,15,9,12
 371,11/16/17,62,Baseline3,5,29.14999,-82.04330,12,NA,Pine Plantation,Pine Plantation,unv,75,0.1,0.5,0,0.6,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,26,19,24
 372,11/16/17,62,Baseline3,6,29.15005,-82.01433,12,NA,Pine Plantation,Pine Plantation,unv,78,0.8,0,1.6,2,1.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,13,9,9
-,7/17/18,63,TheArbors1,1,27.11030,-80.17495,9,,Fire Suppressed Scrub,Scrub,inv,,2.9,5.3,7.1,3.8,,,,,,,,,,,,,,,,,,,1.1,15.56,0,3.91,0.64,7.46,0,3.26,,,,
-,7/17/18,63,TheArbors1,2,27.11027,-80.17484,10,,Fire Suppressed Scrub,Scrub,inv,,0,0,1.4,4.1,,,,,,,,,,,,,,,,,,,10.24,31.95,0,12.23,8.75,15.72,0,10.17,,,,
-,7/17/18,63,TheArbors1,3,27.11027,-80.17488,10,,Fire Suppressed Scrub,Scrub,inv,,0,0,0,0.6,,,,,,,,,,,,,,,,,,,11.59,31.8,0,6.6,8.69,16.87,0,5.31,,,,
-,7/17/18,63,TheArbors1,4,27.11011,-80.17521,9,,Fire Suppressed Scrub,Scrub,unv,,0.3,0.6,0.4,0.7,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/17/18,63,TheArbors1,5,27.11020,-80.17509,9,,Fire Suppressed Scrub,Scrub,unv,,1.1,0.8,0.3,1.4,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/17/18,63,TheArbors1,6,27.11025,-80.17511,9,,Fire Suppressed Scrub,Scrub,unv,,0.2,0.3,0.3,0.6,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,4/20/18,64,Myakka1,1,27.23379,-82.29807,11,,Degraded Dry Prairie ,Dry Prairie ,inv,,14.1,6.5,11.6,12.1,,,,,,,,,,,,,,,,,,,19.73,30.73,0.54,10.82,16.49,22.31,0.42,8.7,,,,
-,4/20/18,64,Myakka1,2,27.23373,-82.29810,11,,Degraded Dry Prairie ,Dry Prairie ,inv,,10.9,8.1,10,10.3,,,,,,,,,,,,,,,,,,,49.49,43.37,0.19,8.88,42.68,34.09,0.04,6.93,,,,
-,4/20/18,64,Myakka1,3,27.23375,-82.29810,10,,Degraded Dry Prairie ,Dry Prairie ,inv,,9.5,9.5,8.7,9.2,,,,,,,,,,,,,,,,,,,27.31,22.09,0,0.91,22.6,15.95,0,0.3,,,,
-,4/20/18,64,Myakka1,4,27.23330,-82.29839,13,,Degraded Dry Prairie ,Dry Prairie ,unv,,2.8,4.7,2.5,2.4,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,4/20/18,64,Myakka1,5,27.23397,-82.29813,10,,Degraded Dry Prairie ,Dry Prairie ,unv,,8.6,6,9.1,6.9,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,4/20/18,64,Myakka1,6,27.23398,-82.29793,9,,Degraded Dry Prairie ,Dry Prairie ,unv,,11.9,10.2,11.5,10.4,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,4/20/18,65,Myakka2,1,27.222232,-82.30091,10,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,inv,,7.2,6.1,5.8,9.6,,,,,,,,,,,,,,,,,,,25.85,14.04,0,9.89,21.58,9.9,0,6.95,,,,
-,4/20/18,65,Myakka2,2,,,,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,inv,,,,,,,,,,,,,,,,,,,,,,,,38.69,31.91,0,13.54,33.29,24.86,0,10.65,,,,
-,4/20/18,65,Myakka2,3,,,,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,inv,,,,,,,,,,,,,,,,,,,,,,,,67.14,42.79,0,32.84,58.11,34.65,0,27.16,,,,
-,4/20/18,65,Myakka2,4,,,,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,4/20/18,65,Myakka2,5,,,,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,4/20/18,65,Myakka2,6,,,,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,4/20/18,66,Myakka3,1,,,,,Praririe Hammock ,Dry Prairie ,inv,,,,,,,,,,,,,,,,,,,,,,,,14.13,22.31,0,2.93,11.76,15.65,0,1.73,,,,
-,4/20/18,66,Myakka3,2,,,,,Praririe Hammock ,Dry Prairie ,inv,,,,,,,,,,,,,,,,,,,,,,,,5.06,19.3,7.6,8.56,3.98,14.51,4.9,6.72,,,,
-,4/20/18,66,Myakka3,3,,,,,Praririe Hammock ,Dry Prairie ,inv,,,,,,,,,,,,,,,,,,,,,,,,0,18.91,0.79,2.73,0,13.2,0.04,1.8,,,,
-,4/20/18,66,Myakka3,4,,,,,Praririe Hammock ,Dry Prairie ,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,4/20/18,66,Myakka3,5,,,,,Praririe Hammock ,Dry Prairie ,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,4/20/18,66,Myakka3,6,,,,,Praririe Hammock ,Dry Prairie ,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/12/18,67,Titusville1,1,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,5.7,38,1.11,17.89,4.07,15.35,0.15,13.61,,,,
-,7/12/18,67,Titusville1,2,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,4.92,27.41,0,11.2,3.05,11.26,0,7.8,,,,
-,7/12/18,67,Titusville1,3,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,5.31,26.2,2.63,22.62,3.62,12.12,0.44,17.29,,,,
-,7/12/18,67,Titusville1,4,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/12/18,67,Titusville1,5,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/12/18,67,Titusville1,6,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/15/18,68,Appleton1,1,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,1.5,21.39,2.89,90.59,1.17,10.18,0.81,50.79,,,,
-,7/15/18,68,Appleton1,2,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,3.84,41.68,13.41,109.79,1.66,15.69,2.66,58.19,,,,
-,7/15/18,68,Appleton1,3,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,6.4,20.1,0,62.86,5.65,8.63,0,39.76,,,,
-,7/15/18,68,Appleton1,4,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/15/18,68,Appleton1,5,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/15/18,68,Appleton1,6,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/18/18,69,McCartyRanch1,1,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,11.23,16.75,0,19.26,10.57,16.29,0,14.64,,,,
-,7/18/18,69,McCartyRanch1,2,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,12.53,27,0,17.08,9.52,10.86,0,16.42,,,,
-,7/18/18,69,McCartyRanch1,3,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,8.88,4.32,0,29.9,7.55,3.01,0,25.39,,,,
-,7/18/18,69,McCartyRanch1,4,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/18/18,69,McCartyRanch1,5,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/18/18,69,McCartyRanch1,6,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/18/18,70,McCartyRanch2,1,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,5.19,25.73,0,20.26,5.19,16.67,0,18.3,,,,
-,7/18/18,70,McCartyRanch2,2,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,23.92,8.26,0,18.18,21.06,6.4,0,16.32,,,,
-,7/18/18,70,McCartyRanch2,3,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,11.83,24.39,0,14.47,9,13.03,0,11.98,,,,
-,7/18/18,70,McCartyRanch2,4,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/18/18,70,McCartyRanch2,5,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/18/18,70,McCartyRanch2,6,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/18/18,71,Ft Pierce1,1,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,6.02,4.07,0,18.95,4.92,2.6,0,16.39,,,,
-,7/18/18,71,Ft Pierce1,2,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,6.81,23.64,0,10.08,4.96,11.29,0,8.61,,,,
-,7/18/18,71,Ft Pierce1,3,,,,,,,inv,,,,,,,,,,,,,,,,,,,,,,,,4.79,11.87,4.83,2.86,3.97,6.82,2.13,2.56,,,,
-,7/18/18,71,Ft Pierce1,4,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/18/18,71,Ft Pierce1,5,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
-,7/18/18,71,Ft Pierce1,6,,,,,,,unv,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,,,,
+,7/17/18,63,TheArbors1,1,27.1103,-80.17495,9,,Fire Suppressed Scrub,Scrub,inv,,2.9,5.3,7.1,3.8,,,29,5,105.4,94.0,87.6,85.1,15.2,63.5,33.0,38.1,87.6,73.7,61.0,85.1,68.6,61.0,1.1,15.56,0,3.91,0.64,7.46,0,3.26,NA,NA,NA,NA
+,7/17/18,63,TheArbors1,2,27.11027,-80.17484,10,,Fire Suppressed Scrub,Scrub,inv,,0,0,1.4,4.1,,,30,30,119.4,114.3,109.2,106.7,88.9,63.5,38.1,58.4,61.0,63.5,76.2,96.5,83.8,92.7,10.24,31.95,0,12.23,8.75,15.72,0,10.17,NA,NA,NA,NA
+,7/17/18,63,TheArbors1,3,27.11027,-80.17488,10,,Fire Suppressed Scrub,Scrub,inv,,0,0,0,0.6,,,25,14,134.6,119.4,118.1,116.8,43.2,119.4,96.5,101.6,118.1,96.5,99.1,64.8,100.3,73.7,11.59,31.8,0,6.6,8.69,16.87,0,5.31,NA,NA,NA,NA
+,7/17/18,63,TheArbors1,4,27.11011,-80.17521,9,,Fire Suppressed Scrub,Scrub,unv,,0.3,0.6,0.4,0.7,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,47,52,57
+,7/17/18,63,TheArbors1,5,27.1102,-80.17509,9,,Fire Suppressed Scrub,Scrub,unv,,1.1,0.8,0.3,1.4,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,44,49,52
+,7/17/18,63,TheArbors1,6,27.11025,-80.17511,9,,Fire Suppressed Scrub,Scrub,unv,,0.2,0.3,0.3,0.6,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,20,21,42
+,4/20/18,64,Myakka1,1,27.23379,-82.29807,11,,Degraded Dry Prairie ,Dry Prairie ,inv,,14.1,6.5,11.6,12.1,,,39,24,106.7,105.4,102.9,102.9,50.8,63.5,95.3,91.4,68.6,102.9,81.3,88.9,106.7,76.2,19.73,30.73,0.54,10.82,16.49,22.31,0.42,8.7,NA,NA,NA,NA
+,4/20/18,64,Myakka1,2,27.23373,-82.29810,11,,Degraded Dry Prairie ,Dry Prairie ,inv,,10.9,8.1,10,10.3,,,60,86,124.5,123.2,123.2,121.9,40.6,81.3,58.4,73.7,101.6,63.5,108.0,76.2,111.8,66.0,49.49,43.37,0.19,8.88,42.68,34.09,0.04,6.93,NA,NA,NA,NA
+,4/20/18,64,Myakka1,3,27.23375,-82.29810,10,,Degraded Dry Prairie ,Dry Prairie ,inv,,9.5,9.5,8.7,9.2,,,32,42,99.1,99.1,96.5,95.3,83.8,71.1,99.1,62.2,99.1,97.8,63.5,91.4,68.6,99.1,27.31,22.09,0,0.91,22.6,15.95,0,0.3,NA,NA,NA,NA
+,4/20/18,64,Myakka1,4,27.2333,-82.29839,13,,Degraded Dry Prairie ,Dry Prairie ,unv,,2.8,4.7,2.5,2.4,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,30,32,26
+,4/20/18,64,Myakka1,5,27.23397,-82.29813,10,,Degraded Dry Prairie ,Dry Prairie ,unv,,8.6,6,9.1,6.9,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,36,39,35,32
+,4/20/18,64,Myakka1,6,27.23398,-82.29793,9,,Degraded Dry Prairie ,Dry Prairie ,unv,,11.9,10.2,11.5,10.4,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,28,41,31
+,4/20/18,65,Myakka2,1,27.22223,-82.30091,10,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,inv,,7.2,6.1,5.8,9.6,,,13,82,142.2,137.2,134.6,106.7,57.2,137.2,78.7,97.8,132.1,94.0,76.2,116.8,106.7,61.0,25.85,14.04,0,9.89,21.58,9.9,0,6.95,NA,NA,NA,NA
+,4/20/18,65,Myakka2,2,27.22242,-82.30085,11,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,inv,,3.8,3.9,6.9,5.9,,,25,39,149.9,149.9,144.8,142.2,81.3,31.8,118.1,142.2,121.9,144.8,78.7,137.2,149.9,66.0,38.69,31.91,0,13.54,33.29,24.86,0,10.65,NA,NA,NA,NA
+,4/20/18,65,Myakka2,3,27.22243,-82.30081,12,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,inv,,2.8,5.5,7,8.3,,,37,42,218.4,204.5,193.0,177.8,114.3,64.8,81.3,177.8,141.0,204.5,193.0,24.1,66.0,57.2,67.14,42.79,0,32.84,58.11,34.65,0,27.16,NA,NA,NA,NA
+,4/20/18,65,Myakka2,4,27.22246,82.30099,11,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,unv,,2.5,4.8,6.4,3.6,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,34,31,31
+,4/20/18,65,Myakka2,5,27.22246,-82.30100,12,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,unv,,8.5,9.5,9.1,7.5,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,45,41,36
+,4/20/18,65,Myakka2,6,27.22249,82.30105,13,,Ecotone Wetland/Dry Prairie ,Dry Prairie ,unv,,6.1,5.4,8.7,5.4,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,13,10,11
+,4/20/18,66,Myakka3,1,27.20752,-82.25491,11,,Praririe Hammock ,Dry Prairie ,inv,,17.3,18.1,12.7,18.9,,,28,21,144.8,142.2,137.2,137.2,121.9,96.5,55.9,142.2,114.3,144.8,124.5,71.1,86.4,114.3,14.13,22.31,0,2.93,11.76,15.65,0,1.73,NA,NA,NA,NA
+,4/20/18,66,Myakka3,2,27.2075,-82.25493,9,,Praririe Hammock ,Dry Prairie ,inv,,14.9,16.9,16.1,23.3,,,41,13,133.4,119.4,99.1,96.5,76.2,119.4,96.5,55.9,90.2,111.8,66.0,83.8,74.9,99.1,5.06,19.3,7.6,8.56,3.98,14.51,4.9,6.72,NA,NA,NA,NA
+,4/20/18,66,Myakka3,3,27.20779,-82.25510,9,,Praririe Hammock ,Dry Prairie ,inv,,15,11.5,14.7,10.5,,,32,0,104.1,99.1,99.1,99.1,81.3,43.2,86.4,34.3,66.0,69.9,99.1,36.8,53.3,78.7,0,18.91,0.79,2.73,0,13.2,0.04,1.8,NA,NA,NA,NA
+,4/20/18,66,Myakka3,4,27.20779,-82.25510,9,,Praririe Hammock ,Dry Prairie ,unv,,9.4,7.4,8.8,5,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,28,22,24
+,4/20/18,66,Myakka3,5,27.20748,-82.25504,11,,Praririe Hammock ,Dry Prairie ,unv,,16.6,16.9,8.2,17.8,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,52,40,38,36
+,4/20/18,66,Myakka3,6,27.20746,-82.25549,10,,Praririe Hammock ,Dry Prairie ,unv,,10.8,16.7,13.2,12.3,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,45,38,44
+,7/12/18,67,Titusville1,1,28.5406,-80.80312,10,,Scrub,Scrub,inv,,5.7,6.6,3.5,5.2,,,43,21,124,120,116.5,115,69,74.5,98.5,96,66.5,108.5,49,58,51,27.5,5.7,38,1.11,17.89,4.07,15.35,0.15,13.61,NA,NA,NA,NA
+,7/12/18,67,Titusville1,2,28.54059,-80.80312,14,,Scrub,Scrub,inv,,4.2,4.6,4.8,5.7,,,21,10,150,127.5,131,119.5,118,95.5,98,107.5,69,73,53,28,80,112,4.92,27.41,0,11.2,3.05,11.26,0,7.8,NA,NA,NA,NA
+,7/12/18,67,Titusville1,3,28.54067,-80.80315,10,,Scrub,Scrub,inv,,5.9,7.1,4.1,4.1,,,24,15,135.5,122.5,120.5,114,106.5,89,80.5,95,76,58,38,73,41.5,70,5.31,26.2,2.63,22.62,3.62,12.12,0.44,17.29,NA,NA,NA,NA
+,7/12/18,67,Titusville1,4,28.54066,-80.80312,10,,Scrub,Scrub,unv,,5.3,5.2,5.1,3.6,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,42,40,41
+,7/12/18,67,Titusville1,5,28.541,-80.80323,9,,Scrub,Scrub,unv,,3.3,4.5,2.9,2.9,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,62,65,70
+,7/12/18,67,Titusville1,6,28.54106,-80.80315,9,,Scrub,Scrub,unv,,3.6,3.6,2.9,2.1,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,60,52,65
+,7/15/18,68,Appleton1,1,29.2059,-82.07747,28,,sandhill/ hammock,sandhill,inv,,3.1,6.5,2.4,5.6,,,21,6,124.5,123.2,116.8,114.3,76.2,109.2,78.7,55.9,109.2,104.1,110.5,91.4,123.2,52.1,1.5,21.39,2.89,90.59,1.17,10.18,0.81,50.79,NA,NA,NA,NA
+,7/15/18,68,Appleton1,2,29.20515,-82.07774,12,,sandhill/ hammock,sandhill,inv,,5.3,7.3,5.4,6.9,,,22,12,142.2,141.0,137.2,135.9,193.0,83.8,94.0,114.3,114.3,104.1,111.8,113.0,104.1,83.8,3.84,41.68,13.41,109.79,1.66,15.69,2.66,58.19,NA,NA,NA,NA
+,7/15/18,68,Appleton1,3,29.20577,-82.07770,14,,sandhill/ hammock,sandhill,inv,,4.3,5.7,7.1,6.6,,,15,13,141.0,135.9,127.0,119.4,127.0,91.4,101.6,96.5,40.6,74.9,119.4,135.9,114.3,104.1,6.4,20.1,0,62.86,5.65,8.63,0,39.76,NA,NA,NA,NA
+,7/15/18,68,Appleton1,4,29.20584,-82.07787,15,,sandhill/ hammock,sandhill,unv,,5.3,4.9,7.4,3.9,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,46,39,38
+,7/15/18,68,Appleton1,5,29.20583,-82.07793,15,,sandhill/ hammock,sandhill,unv,,3.4,6.4,4.7,7.3,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,84,73,67,65
+,7/15/18,68,Appleton1,6,29.20584,-82.07792,14,,sandhill/ hammock,sandhill,unv,,5.1,9.5,6.2,6.3,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,109,89,82,45
+,7/18/18,69,McCartyRanch1,1,27.25885,-80.52024,9,,Edge of man made pond in flatwoods/sandhill,flatwoods/sandhill,inv,,13.9,19.9,4.4,12.3,,,62,60,96.5,92.7,91.4,91.4,55.9,33.0,45.7,86.4,73.7,96.5,88.9,78.7,83.8,88.9,11.23,16.75,0,19.26,10.57,16.29,0,14.64,NA,NA,NA,NA
+,7/18/18,69,McCartyRanch1,2,27.25288,-80.52029,10,,Edge of man made pond in flatwoods/sandhill,flatwoods/sandhill,inv,,9,8.3,10.6,7.2,,,29,46,99.1,96.5,95.3,94.0,68.6,78.7,61.0,88.9,63.5,86.4,50.8,78.7,99.1,53.3,12.53,27,0,17.08,9.52,10.86,0,16.42,NA,NA,NA,NA
+,7/18/18,69,McCartyRanch1,3,27.25289,-80.52021,10,,Edge of man made pond in flatwoods/sandhill,flatwoods/sandhill,inv,,19.8,13.9,16,9.7,,,11,36,97.8,90.2,73.7,69.9,63.5,73.7,38.1,40.6,67.3,88.9,52.1,45.7,38.1,53.3,8.88,4.32,0,29.9,7.55,3.01,0,25.39,NA,NA,NA,NA
+,7/18/18,69,McCartyRanch1,4,27.25333,-80.52008,9,,Edge of man made pond in flatwoods/sandhill,flatwoods/sandhill,unv,,16.8,18.9,15.3,15.4,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,55,45,32
+,7/18/18,69,McCartyRanch1,5,27.25337,-80.52010,9,,Edge of man made pond in flatwoods/sandhill,flatwoods/sandhill,unv,,6.3,4.1,5.7,4.6,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,70,68,73,62
+,7/18/18,69,McCartyRanch1,6,27.25271,-80.52052,9,,Edge of man made pond in flatwoods/sandhill,flatwoods/sandhill,unv,,7.1,8.2,8.3,6.1,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,90,83,64,81
+,7/18/18,70,McCartyRanch2,1,27.23732,-80.51265,10,,Flatwoods Edge,Flatwoods,inv,0,25.1,19.4,28.8,26.8,,,44,22,99.1,92.7,92.7,88.9,55.9,50.8,91.4,76.2,68.6,66.0,86.4,61.0,91.4,59.7,5.19,25.73,0,20.26,5.19,16.67,0,18.3,NA,NA,NA,NA
+,7/18/18,70,McCartyRanch2,2,27.27733,-80.51263,12,,Flatwoods Edge,Flatwoods,inv,,28,29.7,26.2,26.6,,,17,66,101.6,92.7,91.4,87.6,74.9,36.8,83.8,73.7,67.3,86.4,101.6,80.0,55.9,83.8,23.92,8.26,0,18.18,21.06,6.4,0,16.32,NA,NA,NA,NA
+,7/18/18,70,McCartyRanch2,3,27.23731,-80.51265,9,,Flatwoods Edge,Flatwoods,inv,0,24.8,25.8,23.2,21.6,,,59,51,91.4,88.9,88.9,85.1,30.5,52.1,44.5,83.8,63.5,25.4,91.4,76.2,73.7,63.5,11.83,24.39,0,14.47,9,13.03,0,11.98,NA,NA,NA,NA
+,7/18/18,70,McCartyRanch2,4,27.23713,-80.51244,10,,Flatwoods Edge,Flatwoods,unv,0,30.4,30.9,30.4,26.7,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,135,140,121,115
+,7/18/18,70,McCartyRanch2,5,27.23706,-80.51239,9,,Flatwoods Edge,Flatwoods,unv,0,13.9,20.1,43.4,33,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,65,52,63,49
+,7/18/18,70,McCartyRanch2,6,27.23738,-80.51273,9,,Flatwoods Edge,Flatwoods,unv,0,28.5,29.2,21.8,27.4,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,32,41,52
+,7/18/18,71,Ft Pierce1,1,27.38722,-80.32387,9,,Junk Orange Grove,Sandhill,inv,0,1.5,1.7,2.6,1.3,,,5,19,116.8,99.1,99.1,43.2,40.6,43.2,99.1,99.1,116.8,NA,NA,NA,NA,NA,6.02,4.07,0,18.95,4.92,2.6,0,16.39,NA,NA,NA,NA
+,7/18/18,71,Ft Pierce1,2,27.38724,-80.32383,10,,Junk Orange Grove,Sandhill,inv,0,2.9,4.1,3,2.7,,,16,19,121.9,118.1,109.2,106.7,82.6,85.1,106.7,101.6,82.6,121.9,104.1,109.2,101.6,92.7,6.81,23.64,0,10.08,4.96,11.29,0,8.61,NA,NA,NA,NA
+,7/18/18,71,Ft Pierce1,3,27.38727,-80.32388,9,,Junk Orange Grove,Sandhill,inv,,4.9,4.9,3.8,5.5,,,19,20,113.0,96.5,91.4,88.9,45.7,49.5,78.7,68.6,45.7,91.4,96.5,45.7,71.1,63.5,4.79,11.87,4.83,2.86,3.97,6.82,2.13,2.56,NA,NA,NA,NA
+,7/18/18,71,Ft Pierce1,4,27.38722,-80.32375,9,,Junk Orange Grove,Sandhill,unv,0,6.1,15.7,8.2,4.8,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,105,92,102,75
+,7/18/18,71,Ft Pierce1,5,27.38730,-80.32370,10,,Junk Orange Grove,Sandhill,unv,0,6,6.5,5.4,4.5,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,120,118,143,115
+,7/18/18,71,Ft Pierce1,6,27.38735,-80.32370,11,,Junk Orange Grove,Sandhill,unv,0,5.5,5.3,5.7,5.4,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,85,110,60,92
