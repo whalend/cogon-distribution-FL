@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="potential_serdp_sites" id="potential_serdp_sites">
+	<SimpleField name="pop_id" type="string"></SimpleField>
+	<SimpleField name="habitat_type" type="string"></SimpleField>
+	<SimpleField name="invasion" type="string"></SimpleField>
+	<SimpleField name="avg_canopy_cover" type="float"></SimpleField>
+	<SimpleField name="avg_soil_moisture" type="float"></SimpleField>
+	<SimpleField name="avg_live_tillers" type="float"></SimpleField>
+	<SimpleField name="avg_dead_tillers" type="float"></SimpleField>
+	<SimpleField name="avg_total_tillers" type="float"></SimpleField>
+	<SimpleField name="avg_cogon_till_length" type="float"></SimpleField>
+	<SimpleField name="avg_D_live" type="float"></SimpleField>
+	<SimpleField name="avg_D_dead" type="float"></SimpleField>
+	<SimpleField name="avg_D_litter" type="float"></SimpleField>
+	<SimpleField name="avg_D_other" type="float"></SimpleField>
+	<SimpleField name="avg_native_length" type="float"></SimpleField>
+	<SimpleField name="elevation" type="float"></SimpleField>
+	<SimpleField name="elev_units" type="string"></SimpleField>
+	<SimpleField name="site_lc" type="string"></SimpleField>
+</Schema>
+<Folder><name>potential_serdp_sites</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Appleton1</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_soil_moisture">5.51666666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">19.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">10.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">29.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">101.08</SimpleData>
+		<SimpleData name="avg_D_live">11.5</SimpleData>
+		<SimpleData name="avg_D_dead">2.82666666666667</SimpleData>
+		<SimpleData name="avg_D_other">1.15666666666667</SimpleData>
+		<SimpleData name="elevation">21.24</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Commercial and Services</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.07747,29.2059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Appleton1</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">64.75</SimpleData>
+		<SimpleData name="elevation">21.24</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Commercial and Services</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.07747,29.2059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Archer1</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">63.6666666666667</SimpleData>
+		<SimpleData name="avg_soil_moisture">4.61666666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">11.6666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">12.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">24</SimpleData>
+		<SimpleData name="avg_cogon_till_length">128.569444444444</SimpleData>
+		<SimpleData name="avg_D_live">9.55333333333333</SimpleData>
+		<SimpleData name="avg_D_dead">6.01333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">29.77</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Transportation</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.51585,29.53911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Archer1</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">27.1666666666667</SimpleData>
+		<SimpleData name="elevation">29.77</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Transportation</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.51585,29.53911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Baseline1</SimpleData>
+		<SimpleData name="habitat_type">upland pine plantation</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">76.6666666666667</SimpleData>
+		<SimpleData name="avg_soil_moisture">0.475</SimpleData>
+		<SimpleData name="avg_live_tillers">60.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">35</SimpleData>
+		<SimpleData name="avg_total_tillers">95.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">143.816666666667</SimpleData>
+		<SimpleData name="avg_D_live">50.0433333333333</SimpleData>
+		<SimpleData name="avg_D_dead">22.0333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">21.83</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.04895,29.14495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Baseline1</SimpleData>
+		<SimpleData name="habitat_type">upland pine plantation</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">26.3333333333333</SimpleData>
+		<SimpleData name="elevation">21.83</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.04895,29.14495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Baseline2</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">35.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">1.76666666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">50</SimpleData>
+		<SimpleData name="avg_dead_tillers">70.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">120.666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">101.233333333333</SimpleData>
+		<SimpleData name="avg_D_live">20.6433333333333</SimpleData>
+		<SimpleData name="avg_D_dead">14.7</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">27.3</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.05106,29.14322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Baseline2</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">30.1666666666667</SimpleData>
+		<SimpleData name="elevation">27.3</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.05106,29.14322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Baseline3</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">70</SimpleData>
+		<SimpleData name="avg_soil_moisture">0.4</SimpleData>
+		<SimpleData name="avg_live_tillers">52</SimpleData>
+		<SimpleData name="avg_dead_tillers">17.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">69.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">112.95</SimpleData>
+		<SimpleData name="avg_D_live">31.4733333333333</SimpleData>
+		<SimpleData name="avg_D_dead">8.03</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">19.76</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.04322,29.15015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Baseline3</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">16.9166666666667</SimpleData>
+		<SimpleData name="elevation">19.76</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.04322,29.15015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">BearTrack1</SimpleData>
+		<SimpleData name="habitat_type">scrub</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">64.6666666666667</SimpleData>
+		<SimpleData name="avg_soil_moisture">4.55</SimpleData>
+		<SimpleData name="avg_live_tillers">15.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">3.66666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">19</SimpleData>
+		<SimpleData name="avg_cogon_till_length">70.4166666666667</SimpleData>
+		<SimpleData name="avg_D_live">8.98333333333333</SimpleData>
+		<SimpleData name="avg_D_dead">1.89333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">18.56</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.52306,28.9318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">BearTrack1</SimpleData>
+		<SimpleData name="habitat_type">scrub</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">62.375</SimpleData>
+		<SimpleData name="elevation">18.56</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.52306,28.9318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">BobJanes1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">0</SimpleData>
+		<SimpleData name="avg_soil_moisture">9.425</SimpleData>
+		<SimpleData name="avg_live_tillers">31.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">22</SimpleData>
+		<SimpleData name="avg_total_tillers">53.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">66.7666666666667</SimpleData>
+		<SimpleData name="avg_D_live">13.2166666666667</SimpleData>
+		<SimpleData name="avg_D_dead">5.19333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">3.72</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Unimproved/Woodland Pasture</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.7204,26.74594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">BobJanes1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">114.25</SimpleData>
+		<SimpleData name="elevation">3.72</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Unimproved/Woodland Pasture</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.7204,26.74594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">BoulwareSprings1</SimpleData>
+		<SimpleData name="habitat_type">sandhill</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">38</SimpleData>
+		<SimpleData name="avg_soil_moisture">14.375</SimpleData>
+		<SimpleData name="avg_live_tillers">42</SimpleData>
+		<SimpleData name="avg_dead_tillers">11.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">53.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">71.7666666666667</SimpleData>
+		<SimpleData name="avg_D_live">14.19</SimpleData>
+		<SimpleData name="avg_D_dead">2.65666666666667</SimpleData>
+		<SimpleData name="avg_D_other">3.46666666666667</SimpleData>
+		<SimpleData name="elevation">35.16</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Parks and Zoos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.30997,29.62451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">BoulwareSprings1</SimpleData>
+		<SimpleData name="habitat_type">sandhill</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">85</SimpleData>
+		<SimpleData name="elevation">35.16</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Parks and Zoos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.30997,29.62451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Brevard1</SimpleData>
+		<SimpleData name="habitat_type">scrub</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">0</SimpleData>
+		<SimpleData name="avg_soil_moisture">12.7916666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">34.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">59.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">93.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">75.65</SimpleData>
+		<SimpleData name="avg_D_live">17.5666666666667</SimpleData>
+		<SimpleData name="avg_D_dead">32.1133333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">1.5</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Urban Open Land</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.61336,28.40025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Brevard1</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">81.75</SimpleData>
+		<SimpleData name="elevation">1.5</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Urban Open Land</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.61336,28.40025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Clontz1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">0</SimpleData>
+		<SimpleData name="avg_soil_moisture">13.8833333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">74</SimpleData>
+		<SimpleData name="avg_dead_tillers">48</SimpleData>
+		<SimpleData name="avg_total_tillers">122</SimpleData>
+		<SimpleData name="avg_cogon_till_length">66.2333333333333</SimpleData>
+		<SimpleData name="avg_D_live">16.8566666666667</SimpleData>
+		<SimpleData name="avg_D_dead">6.18333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">3.17</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Improved Pasture</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.06387,28.66051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Clontz1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">90</SimpleData>
+		<SimpleData name="elevation">3.17</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Improved Pasture</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.06387,28.66051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">ColtCreek1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">82.6666666666667</SimpleData>
+		<SimpleData name="avg_soil_moisture">37.3916666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">28.6666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">9</SimpleData>
+		<SimpleData name="avg_total_tillers">37.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">97.0166666666667</SimpleData>
+		<SimpleData name="avg_D_live">20.71</SimpleData>
+		<SimpleData name="avg_D_dead">4.38</SimpleData>
+		<SimpleData name="avg_D_other">0.243333333333333</SimpleData>
+		<SimpleData name="elevation">29.03</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.02888,28.28147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">ColtCreek1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">77.1666666666667</SimpleData>
+		<SimpleData name="elevation">29.03</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.02888,28.28147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">ColtCreek2</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">88.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">35.9083333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">61</SimpleData>
+		<SimpleData name="avg_dead_tillers">11.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">72.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">92.2</SimpleData>
+		<SimpleData name="avg_D_live">18.3466666666667</SimpleData>
+		<SimpleData name="avg_D_dead">0.673333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">29.65</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.02458,28.28091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">ColtCreek2</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">66.75</SimpleData>
+		<SimpleData name="elevation">29.65</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.02458,28.28091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">ColtCreek3</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">95.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">37.1666666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">17.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">34</SimpleData>
+		<SimpleData name="avg_total_tillers">51.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">59.0666666666667</SimpleData>
+		<SimpleData name="avg_D_live">3.49</SimpleData>
+		<SimpleData name="avg_D_dead">11.83</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">26.26</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Dome Swamp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.05473,28.29588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">ColtCreek3</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">81.25</SimpleData>
+		<SimpleData name="elevation">26.26</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Dome Swamp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.05473,28.29588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">ConePark1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">94.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">14.8</SimpleData>
+		<SimpleData name="avg_live_tillers">28.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">12.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">41</SimpleData>
+		<SimpleData name="avg_cogon_till_length">95.85</SimpleData>
+		<SimpleData name="avg_D_live">12.2133333333333</SimpleData>
+		<SimpleData name="avg_D_dead">2.47333333333333</SimpleData>
+		<SimpleData name="avg_D_other">1.46666666666667</SimpleData>
+		<SimpleData name="elevation">40.63</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Wet Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.28552,29.64154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">ConePark1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">36.3333333333333</SimpleData>
+		<SimpleData name="elevation">40.63</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Wet Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.28552,29.64154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">EdYard1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">94.5</SimpleData>
+		<SimpleData name="avg_soil_moisture">36.0583333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">31.6666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">0.666666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">32.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">45.5666666666667</SimpleData>
+		<SimpleData name="avg_D_live">0.94</SimpleData>
+		<SimpleData name="avg_D_dead">0</SimpleData>
+		<SimpleData name="avg_D_other">0.0933333333333333</SimpleData>
+		<SimpleData name="elevation">7.29</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mixed Hardwood Coniferous Swamps</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.10027,28.70923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">EdYard1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">81.75</SimpleData>
+		<SimpleData name="elevation">7.29</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mixed Hardwood Coniferous Swamps</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.10027,28.70923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Etoniah1</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_soil_moisture">3.76666666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">34</SimpleData>
+		<SimpleData name="avg_dead_tillers">44</SimpleData>
+		<SimpleData name="avg_total_tillers">78</SimpleData>
+		<SimpleData name="avg_cogon_till_length">71.7597222222222</SimpleData>
+		<SimpleData name="avg_D_live">5.79</SimpleData>
+		<SimpleData name="avg_D_dead">7.13666666666667</SimpleData>
+		<SimpleData name="avg_D_other">0.6</SimpleData>
+		<SimpleData name="elevation">39.02</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Sandhill</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.8119,29.74187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Etoniah1</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">80.1666666666667</SimpleData>
+		<SimpleData name="elevation">39.02</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Sandhill</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.8119,29.74187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">FH13</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">21.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">5.94166666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">28.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">60.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">88.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">57.5833333333333</SimpleData>
+		<SimpleData name="avg_D_live">5.84</SimpleData>
+		<SimpleData name="avg_D_dead">8.20333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">23.11</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.65198,30.17999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">FH13</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">80.6666666666667</SimpleData>
+		<SimpleData name="elevation">23.11</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.65198,30.17999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Ft Pierce1</SimpleData>
+		<SimpleData name="habitat_type">sandhill</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">0</SimpleData>
+		<SimpleData name="avg_soil_moisture">3.24166666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">13.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">19.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">32.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">81.4033333333333</SimpleData>
+		<SimpleData name="avg_D_live">6.90333333333333</SimpleData>
+		<SimpleData name="avg_D_dead">4.61666666666667</SimpleData>
+		<SimpleData name="avg_D_other">0.71</SimpleData>
+		<SimpleData name="elevation">4.14</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Improved Pasture</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.32387,27.38722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Ft Pierce1</SimpleData>
+		<SimpleData name="habitat_type">sandhill</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">101.416666666667</SimpleData>
+		<SimpleData name="elevation">4.14</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Improved Pasture</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.32387,27.38722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Goethe1</SimpleData>
+		<SimpleData name="habitat_type">sandhill</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">65.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">4.175</SimpleData>
+		<SimpleData name="avg_live_tillers">22.6666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">32.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">55.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">84.7851851851852</SimpleData>
+		<SimpleData name="avg_D_live">10.2366666666667</SimpleData>
+		<SimpleData name="avg_D_dead">6.55</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">25.04</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Sandhill</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.54917,29.27101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Goethe1</SimpleData>
+		<SimpleData name="habitat_type">sandhill</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">100</SimpleData>
+		<SimpleData name="elevation">25.04</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Sandhill</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.54917,29.27101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">HappinessHomes1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">90.6666666666667</SimpleData>
+		<SimpleData name="avg_soil_moisture">1.60833333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">39.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">20.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">59.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">109.583333333333</SimpleData>
+		<SimpleData name="avg_D_live">22.6433333333333</SimpleData>
+		<SimpleData name="avg_D_dead">6.87333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">22</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mixed Hardwood-Coniferous</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.16478,29.20422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">HappinessHomes1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">52.5</SimpleData>
+		<SimpleData name="elevation">22</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mixed Hardwood-Coniferous</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.16478,29.20422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">HawCreek1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">84</SimpleData>
+		<SimpleData name="avg_soil_moisture">26.5</SimpleData>
+		<SimpleData name="avg_live_tillers">103.666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">38.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">142.333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">79.8833333333333</SimpleData>
+		<SimpleData name="avg_D_live">19.26</SimpleData>
+		<SimpleData name="avg_D_dead">11.8366666666667</SimpleData>
+		<SimpleData name="avg_D_other">0.706666666666667</SimpleData>
+		<SimpleData name="elevation">0.93</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.38939,29.39883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">HawCreek1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">60.8333333333333</SimpleData>
+		<SimpleData name="elevation">0.93</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.38939,29.39883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">HWY42</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">80.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">11.6083333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">10.6666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">12.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">23</SimpleData>
+		<SimpleData name="avg_cogon_till_length">109.866666666667</SimpleData>
+		<SimpleData name="avg_D_live">4.91666666666667</SimpleData>
+		<SimpleData name="avg_D_dead">3.94333333333333</SimpleData>
+		<SimpleData name="avg_D_other">1.49666666666667</SimpleData>
+		<SimpleData name="elevation">23.27</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.6404,28.96452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">HWY42</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">40.3333333333333</SimpleData>
+		<SimpleData name="elevation">23.27</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.6404,28.96452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">LakeWales1</SimpleData>
+		<SimpleData name="habitat_type">sandhill</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">0</SimpleData>
+		<SimpleData name="avg_soil_moisture">3.88333333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">57.6666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">43</SimpleData>
+		<SimpleData name="avg_total_tillers">100.666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">91.1666666666667</SimpleData>
+		<SimpleData name="avg_D_live">17.3333333333333</SimpleData>
+		<SimpleData name="avg_D_dead">11.7166666666667</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">52.5</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Rural Open</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.56,27.91994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">LakeWales1</SimpleData>
+		<SimpleData name="habitat_type">sandhill</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">41.75</SimpleData>
+		<SimpleData name="elevation">52.5</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Rural Open</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.56,27.91994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Manatee1</SimpleData>
+		<SimpleData name="habitat_type">scrub</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">0</SimpleData>
+		<SimpleData name="avg_soil_moisture">12.5916666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">12.6666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">12.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">25</SimpleData>
+		<SimpleData name="avg_cogon_till_length">72.0232142857143</SimpleData>
+		<SimpleData name="avg_D_live">5.88666666666667</SimpleData>
+		<SimpleData name="avg_D_dead">2.79666666666667</SimpleData>
+		<SimpleData name="avg_D_other">2.29666666666667</SimpleData>
+		<SimpleData name="elevation">4.42</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Scrub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.37661,27.675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Manatee1</SimpleData>
+		<SimpleData name="habitat_type">scrub</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">93.4166666666667</SimpleData>
+		<SimpleData name="elevation">4.42</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Scrub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.37661,27.675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">McCartyRanch1</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_soil_moisture">12.0833333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">34</SimpleData>
+		<SimpleData name="avg_dead_tillers">47.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">81.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">67.3933333333333</SimpleData>
+		<SimpleData name="avg_D_live">10.0533333333333</SimpleData>
+		<SimpleData name="avg_D_dead">9.21333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">8.39</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Utilities</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.52024,27.25885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">McCartyRanch1</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">64.4166666666667</SimpleData>
+		<SimpleData name="elevation">8.39</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Utilities</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.52024,27.25885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">McCartyRanch2</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">0</SimpleData>
+		<SimpleData name="avg_soil_moisture">25.5</SimpleData>
+		<SimpleData name="avg_live_tillers">40</SimpleData>
+		<SimpleData name="avg_dead_tillers">46.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">86.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">68.54</SimpleData>
+		<SimpleData name="avg_D_live">12.0333333333333</SimpleData>
+		<SimpleData name="avg_D_dead">11.75</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">7.99</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.51265,27.23732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">McCartyRanch2</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">77.0833333333333</SimpleData>
+		<SimpleData name="elevation">7.99</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.51265,27.23732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">MerrittIsland1</SimpleData>
+		<SimpleData name="habitat_type">scrub</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">13.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">16.775</SimpleData>
+		<SimpleData name="avg_live_tillers">52</SimpleData>
+		<SimpleData name="avg_dead_tillers">19.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">71.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">115.766666666667</SimpleData>
+		<SimpleData name="avg_D_live">51.23</SimpleData>
+		<SimpleData name="avg_D_dead">7.52333333333333</SimpleData>
+		<SimpleData name="avg_D_other">1.97</SimpleData>
+		<SimpleData name="elevation">2.19</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Scrub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.66359,28.61898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">MerrittIsland1</SimpleData>
+		<SimpleData name="habitat_type">scrub</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">42.75</SimpleData>
+		<SimpleData name="elevation">2.19</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Scrub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.66359,28.61898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">MerrittIsland2</SimpleData>
+		<SimpleData name="habitat_type">scrub</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">0</SimpleData>
+		<SimpleData name="avg_soil_moisture">9.93333333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">19</SimpleData>
+		<SimpleData name="avg_dead_tillers">46</SimpleData>
+		<SimpleData name="avg_total_tillers">65</SimpleData>
+		<SimpleData name="avg_cogon_till_length">92.35</SimpleData>
+		<SimpleData name="avg_D_live">10.6166666666667</SimpleData>
+		<SimpleData name="avg_D_dead">14.5333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">0.92</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Scrub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.61652,28.56308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">MerrittIsland2</SimpleData>
+		<SimpleData name="habitat_type">scrub</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">95.3333333333333</SimpleData>
+		<SimpleData name="elevation">0.92</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Scrub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.61652,28.56308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">MerrittIsland3</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">68.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">39.8083333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">45.6666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">17.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">63.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">112.25</SimpleData>
+		<SimpleData name="avg_D_live">29.1833333333333</SimpleData>
+		<SimpleData name="avg_D_dead">3.73333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">1.17</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Scrub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.65459,28.47823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">MerrittIsland3</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">151.166666666667</SimpleData>
+		<SimpleData name="elevation">1.17</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Scrub</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.65459,28.47823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">OcalaNF2</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">73.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">4.84166666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">24</SimpleData>
+		<SimpleData name="avg_dead_tillers">37.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">61.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">86.9666666666667</SimpleData>
+		<SimpleData name="avg_D_live">8.67</SimpleData>
+		<SimpleData name="avg_D_dead">8.36333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0.16</SimpleData>
+		<SimpleData name="elevation">28.76</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Sandhill</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.59026,29.03339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">OcalaNF2</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">70.9166666666667</SimpleData>
+		<SimpleData name="elevation">28.76</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Sandhill</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.59026,29.03339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">OcalaNF3</SimpleData>
+		<SimpleData name="habitat_type">sandhill</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">64.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">5.46666666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">39.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">31.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">71</SimpleData>
+		<SimpleData name="avg_cogon_till_length">77.85</SimpleData>
+		<SimpleData name="avg_D_live">12.6666666666667</SimpleData>
+		<SimpleData name="avg_D_dead">3.87</SimpleData>
+		<SimpleData name="avg_D_other">0.09</SimpleData>
+		<SimpleData name="elevation">31.85</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Sandhill</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.57121,29.00487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">OcalaNF3</SimpleData>
+		<SimpleData name="habitat_type">sandhill</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">72.8333333333333</SimpleData>
+		<SimpleData name="elevation">31.85</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Sandhill</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.57121,29.00487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Osceola1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">49</SimpleData>
+		<SimpleData name="avg_soil_moisture">43.3</SimpleData>
+		<SimpleData name="avg_live_tillers">64.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">18.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">82.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">102.566666666667</SimpleData>
+		<SimpleData name="avg_D_live">40.7</SimpleData>
+		<SimpleData name="avg_D_dead">5.02666666666667</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">20.83</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.17464,28.25126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Osceola1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">161.166666666667</SimpleData>
+		<SimpleData name="elevation">20.83</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.17464,28.25126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">PolkCounty1</SimpleData>
+		<SimpleData name="habitat_type">mixed forest</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">49.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">36.05</SimpleData>
+		<SimpleData name="avg_live_tillers">52</SimpleData>
+		<SimpleData name="avg_dead_tillers">4.66666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">56.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">78.75</SimpleData>
+		<SimpleData name="avg_D_live">14.8566666666667</SimpleData>
+		<SimpleData name="avg_D_dead">1.86666666666667</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">34.02</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mixed Wetland Hardwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.82327,27.98584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">PolkCounty1</SimpleData>
+		<SimpleData name="habitat_type">mixed forest</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">116.916666666667</SimpleData>
+		<SimpleData name="elevation">34.02</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mixed Wetland Hardwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.82327,27.98584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">PolkCounty2</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">71.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">18.8833333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">11.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">9</SimpleData>
+		<SimpleData name="avg_total_tillers">20.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">88.3148148148148</SimpleData>
+		<SimpleData name="avg_D_live">7.81333333333333</SimpleData>
+		<SimpleData name="avg_D_dead">3.8</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">36.83</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Improved Pasture</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.81597,27.8344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">PolkCounty2</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">40.8333333333333</SimpleData>
+		<SimpleData name="elevation">36.83</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Improved Pasture</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.81597,27.8344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Reddick1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">92.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">25.825</SimpleData>
+		<SimpleData name="avg_live_tillers">22.6666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">11</SimpleData>
+		<SimpleData name="avg_total_tillers">33.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">111.75</SimpleData>
+		<SimpleData name="avg_D_live">14.2933333333333</SimpleData>
+		<SimpleData name="avg_D_dead">2.46</SimpleData>
+		<SimpleData name="avg_D_other">0.3</SimpleData>
+		<SimpleData name="elevation">42.32</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.33543,29.35337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Reddick1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">46.25</SimpleData>
+		<SimpleData name="elevation">42.32</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.33543,29.35337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Reddick2</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">79.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">36.9666666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">28.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">21</SimpleData>
+		<SimpleData name="avg_total_tillers">49.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">109.883333333333</SimpleData>
+		<SimpleData name="avg_D_live">20.1433333333333</SimpleData>
+		<SimpleData name="avg_D_dead">4.14</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">37.7</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.33569,29.35931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Reddick2</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">101.583333333333</SimpleData>
+		<SimpleData name="elevation">37.7</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.33569,29.35931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">RiversEdge1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">42.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">13.7583333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">44.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">43</SimpleData>
+		<SimpleData name="avg_total_tillers">87.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">83.8833333333333</SimpleData>
+		<SimpleData name="avg_D_live">17.84</SimpleData>
+		<SimpleData name="avg_D_dead">6.91</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">38.13</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Upland Coniferous</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.28609,30.67213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">RiversEdge1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">116.166666666667</SimpleData>
+		<SimpleData name="elevation">38.13</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Upland Coniferous</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.28609,30.67213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SeminoleSF1</SimpleData>
+		<SimpleData name="habitat_type">mixed forest</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">85.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">23.8416666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">44</SimpleData>
+		<SimpleData name="avg_dead_tillers">18.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">62.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">104.65</SimpleData>
+		<SimpleData name="avg_D_live">18.7066666666667</SimpleData>
+		<SimpleData name="avg_D_dead">9.59</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">16.32</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Basin Swamp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.61357,28.96113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SeminoleSF1</SimpleData>
+		<SimpleData name="habitat_type">mixed forest</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">63.8333333333333</SimpleData>
+		<SimpleData name="elevation">16.32</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Basin Swamp</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.61357,28.96113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SeminoleSF2</SimpleData>
+		<SimpleData name="habitat_type">mixed forest</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">65.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">20.5083333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">72.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">34.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">107</SimpleData>
+		<SimpleData name="avg_cogon_till_length">111.65</SimpleData>
+		<SimpleData name="avg_D_live">48.3033333333333</SimpleData>
+		<SimpleData name="avg_D_dead">13.1233333333333</SimpleData>
+		<SimpleData name="avg_D_other">0.453333333333333</SimpleData>
+		<SimpleData name="elevation">6.84</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Hydric Hammock</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.44804,28.8145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SeminoleSF2</SimpleData>
+		<SimpleData name="habitat_type">mixed forest</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">83.6666666666667</SimpleData>
+		<SimpleData name="elevation">6.84</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Hydric Hammock</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.44804,28.8145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">ShingleCreek1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">79.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">21.875</SimpleData>
+		<SimpleData name="avg_live_tillers">92.6666666666667</SimpleData>
+		<SimpleData name="avg_dead_tillers">41</SimpleData>
+		<SimpleData name="avg_total_tillers">133.666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">87.32</SimpleData>
+		<SimpleData name="avg_D_live">26.3866666666667</SimpleData>
+		<SimpleData name="avg_D_dead">12.9733333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">21.79</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Cypress</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.45078,28.31362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">ShingleCreek1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">121.166666666667</SimpleData>
+		<SimpleData name="elevation">21.79</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Cypress</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.45078,28.31362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SilverRiver1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">67.6666666666667</SimpleData>
+		<SimpleData name="avg_soil_moisture">29.8916666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">34.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">3.66666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">38</SimpleData>
+		<SimpleData name="avg_cogon_till_length">88.0333333333333</SimpleData>
+		<SimpleData name="avg_D_live">18.53</SimpleData>
+		<SimpleData name="avg_D_dead">0.616666666666667</SimpleData>
+		<SimpleData name="avg_D_other">0.253333333333333</SimpleData>
+		<SimpleData name="elevation">19.23</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.01517,29.22704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SilverRiver1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">100.916666666667</SimpleData>
+		<SimpleData name="elevation">19.23</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.01517,29.22704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SilverShores1</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">74</SimpleData>
+		<SimpleData name="avg_soil_moisture">0.65</SimpleData>
+		<SimpleData name="avg_live_tillers">31</SimpleData>
+		<SimpleData name="avg_dead_tillers">48.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">79.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">93.2666666666667</SimpleData>
+		<SimpleData name="avg_D_live">13.6366666666667</SimpleData>
+		<SimpleData name="avg_D_dead">9.51333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">23.62</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.00275,29.09699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SilverShores1</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">48.4166666666667</SimpleData>
+		<SimpleData name="elevation">23.62</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.00275,29.09699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SilverShores2</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">61.6666666666667</SimpleData>
+		<SimpleData name="avg_soil_moisture">0.375</SimpleData>
+		<SimpleData name="avg_live_tillers">47.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">35.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">82.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">91.3666666666667</SimpleData>
+		<SimpleData name="avg_D_live">24.0833333333333</SimpleData>
+		<SimpleData name="avg_D_dead">6.94666666666667</SimpleData>
+		<SimpleData name="avg_D_other">0.0533333333333333</SimpleData>
+		<SimpleData name="elevation">25.09</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Utilities</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.9996,29.09312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SilverShores2</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">91.3333333333333</SimpleData>
+		<SimpleData name="elevation">25.09</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Utilities</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.9996,29.09312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SilverShores3</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">66.6666666666667</SimpleData>
+		<SimpleData name="avg_soil_moisture">0.308333333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">20</SimpleData>
+		<SimpleData name="avg_dead_tillers">26</SimpleData>
+		<SimpleData name="avg_total_tillers">46</SimpleData>
+		<SimpleData name="avg_cogon_till_length">91.7416666666667</SimpleData>
+		<SimpleData name="avg_D_live">13.8766666666667</SimpleData>
+		<SimpleData name="avg_D_dead">3.85666666666667</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">27.98</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.00653,29.06808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">SilverShores3</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">49.1666666666667</SimpleData>
+		<SimpleData name="elevation">27.98</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Coniferous Plantations</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.00653,29.06808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">St.Joe1</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">87</SimpleData>
+		<SimpleData name="avg_soil_moisture">5.16666666666667</SimpleData>
+		<SimpleData name="avg_live_tillers">30</SimpleData>
+		<SimpleData name="avg_dead_tillers">24.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">54.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">122.483333333333</SimpleData>
+		<SimpleData name="avg_D_live">21.7433333333333</SimpleData>
+		<SimpleData name="avg_D_dead">8.40333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0.423333333333333</SimpleData>
+		<SimpleData name="elevation">12.57</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Upland Coniferous</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.23519,30.37502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">St.Joe1</SimpleData>
+		<SimpleData name="habitat_type">pine plantation</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">80.8333333333333</SimpleData>
+		<SimpleData name="elevation">12.57</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Upland Coniferous</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.23519,30.37502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">TheArbors1</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_soil_moisture">2.1</SimpleData>
+		<SimpleData name="avg_live_tillers">28</SimpleData>
+		<SimpleData name="avg_dead_tillers">16.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">44.3333333333333</SimpleData>
+		<SimpleData name="avg_cogon_till_length">74.0866666666667</SimpleData>
+		<SimpleData name="avg_D_live">13.35</SimpleData>
+		<SimpleData name="avg_D_dead">6.02666666666667</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">5.12</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Scrubby Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.17495,27.1103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">TheArbors1</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">43.75</SimpleData>
+		<SimpleData name="elevation">5.12</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Scrubby Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.17495,27.1103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Titusville1</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_soil_moisture">5.125</SimpleData>
+		<SimpleData name="avg_live_tillers">29.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">15.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">44.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">75.3333333333333</SimpleData>
+		<SimpleData name="avg_D_live">12.91</SimpleData>
+		<SimpleData name="avg_D_dead">3.58</SimpleData>
+		<SimpleData name="avg_D_other">0.196666666666667</SimpleData>
+		<SimpleData name="elevation">8.82</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Extractive</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.80312,28.5406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Titusville1</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">54.0833333333333</SimpleData>
+		<SimpleData name="elevation">8.82</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Extractive</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.80312,28.5406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Tomoka1</SimpleData>
+		<SimpleData name="habitat_type">flatwoods</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">5</SimpleData>
+		<SimpleData name="avg_soil_moisture">41.7583333333333</SimpleData>
+		<SimpleData name="avg_live_tillers">99.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">24.6666666666667</SimpleData>
+		<SimpleData name="avg_total_tillers">62</SimpleData>
+		<SimpleData name="avg_cogon_till_length">104.416666666667</SimpleData>
+		<SimpleData name="avg_D_live">55.9966666666667</SimpleData>
+		<SimpleData name="avg_D_dead">5.80666666666667</SimpleData>
+		<SimpleData name="avg_D_litter">17.81</SimpleData>
+		<SimpleData name="avg_D_other">1.24666666666667</SimpleData>
+		<SimpleData name="avg_native_length">124.333333333333</SimpleData>
+		<SimpleData name="elevation">1.15</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Mesic Flatwoods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.08697,29.31026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Wingate1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">inv</SimpleData>
+		<SimpleData name="avg_canopy_cover">78.3333333333333</SimpleData>
+		<SimpleData name="avg_soil_moisture">2.875</SimpleData>
+		<SimpleData name="avg_live_tillers">28.3333333333333</SimpleData>
+		<SimpleData name="avg_dead_tillers">12.3333333333333</SimpleData>
+		<SimpleData name="avg_total_tillers">40.6666666666667</SimpleData>
+		<SimpleData name="avg_cogon_till_length">82.45</SimpleData>
+		<SimpleData name="avg_D_live">10.76</SimpleData>
+		<SimpleData name="avg_D_dead">3.36333333333333</SimpleData>
+		<SimpleData name="avg_D_other">0</SimpleData>
+		<SimpleData name="elevation">17.76</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Xeric Hammock</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.13833,27.44186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#potential_serdp_sites">
+		<SimpleData name="pop_id">Wingate1</SimpleData>
+		<SimpleData name="habitat_type">hammock</SimpleData>
+		<SimpleData name="invasion">unv</SimpleData>
+		<SimpleData name="avg_native_length">66.5</SimpleData>
+		<SimpleData name="elevation">17.76</SimpleData>
+		<SimpleData name="elev_units">meters</SimpleData>
+		<SimpleData name="site_lc">Xeric Hammock</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-82.13833,27.44186</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
