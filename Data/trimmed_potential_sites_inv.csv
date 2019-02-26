@@ -1,0 +1,28 @@
+pop_id,habitat_type,invasion,avg_total_tillers,relative_location
+Archer1,pine plantation,inv,24,gainesville
+Baseline1,upland pine plantation,inv,95.33333333333333,ocala
+Baseline2,pine plantation,inv,120.66666666666667,ocala
+Baseline3,pine plantation,inv,69.66666666666667,ocala
+BoulwareSprings1,sandhill,inv,53.666666666666664,gainesville
+ColtCreek1,flatwoods,inv,37.666666666666664,lakeland
+ColtCreek2,hammock,inv,72.33333333333333,lakeland
+ColtCreek3,hammock,inv,51.333333333333336,lakeland
+ConePark1,hammock,inv,41,gainesville
+Etoniah1,sandhill,inv,78,palatka etoniah sf
+FH13,flatwoods,inv,88.66666666666667,appalachicola nf
+HawCreek1,flatwoods,inv,142.33333333333334,daytona
+LakeWales1,sandhill,inv,100.66666666666667,lakeland
+OcalaNF2,flatwoods,inv,61.666666666666664,SE ocala nf alexander springs
+OcalaNF3,sandhill,inv,71,SE ocala nf alexander springs
+PolkCounty1,mixed forest,inv,56.666666666666664,lakeland
+PolkCounty2,flatwoods,inv,20.333333333333332,lakeland
+Reddick1,hammock,inv,33.666666666666664,west reddick
+Reddick2,pine plantation,inv,49.333333333333336,west reddick
+RiversEdge1,flatwoods,inv,87.33333333333333,meridian FL/GA border
+SeminoleSF1,mixed forest,inv,62.666666666666664,SE ocala nf alexander springs
+SeminoleSF2,mixed forest,inv,107,SE ocala nf alexander springs
+SilverRiver1,flatwoods,inv,38,ocala
+SilverShores1,pine plantation,inv,79.33333333333333,ocala
+SilverShores2,pine plantation,inv,82.66666666666667,ocala
+SilverShores3,pine plantation,inv,46,ocala
+Tomoka1,flatwoods,inv,62,daytona
